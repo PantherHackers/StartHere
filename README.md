@@ -3,9 +3,9 @@
 Welcome to the PantherHackers github. Here you will find all PantherHackers related projects that are currently in development. All members of PantherHackers are welcome to participate in the ongoing development of these projects. This repository is dedicated to introducing you to git, github, pull requests (PR), and the expected code standards and approval process of your PRs. 
 
 #Where to start
-- If this is your first time using git, or you need a refresher course, please go to Introduction to Git
-- If you are unsure of how github works, why we use it, what forks are, or how to manage your repos, please go to Introduction to Github
-- Otherwise please go to Pull Request usage, expectations, and approvals
+- If this is your first time using git, or you need a refresher course, please go to [Introduction to Git](https://github.com/PantherHackers/StartHere#introduction-to-git)
+- If you are unsure of how github works, why we use it, what forks are, or how to manage your repos, please go to [Introduction to Github](https://github.com/PantherHackers/StartHere#introduction-to-github)
+- Otherwise please go to [Pull Request usage, expectations, and approvals](https://github.com/PantherHackers/StartHere#expectations-and-approvals)
 
 #Introduction to Git
 The following resources are avalible to help you get introduced to git.
