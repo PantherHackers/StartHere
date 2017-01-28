@@ -39,7 +39,9 @@ Although PantherHackers is a predominantly student organization, we still expect
  1. Fork this Repo
  2. Create a branch name `(your student user_id)-acknowledgment` for example Mo Hijazi would create the branch `mhijazi1-acknowledgment`
  3. Modify this readme and add your First and Last name and the current date to the very bottom of the Acknowledgment section.
- 4. Create a Pull Request, in the description please put your slack name and an email we can best use to contact you 
+ 4. Create a Pull Request, in the **extended description** please put your slack name and an email we can best use to contact you 
  5. Once your PR is approved, you are then free to contribute to any of the PantherHackers repo, **failure to do so will result in immediate rejection of your PR**
  
 #Acknowledgment
+
+Mo Hijazi 1-28-2017
