@@ -46,3 +46,4 @@ Although PantherHackers is a predominantly student organization, we still expect
 #Acknowledgment
 
 Mo Hijazi 1-28-2017
+Luis Ferrer-Labarca 2-4-2017
