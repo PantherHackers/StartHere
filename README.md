@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the PantherHackers github. Here you will find all PantherHackers related projects that are currently in development. All members of PantherHackers are welcome to participate in the ongoing development of these projects. This repository is dedicated to introducing you to git, github, pull requests (PR), and the expected code standards and approval process of your PRs. 
+Welcome to the PantherHackers github. Here you will find all PantherHackers related projects that are currently in development. All members of PantherHackers are welcome to participate in the ongoing development of these projects. This repository is dedicated to introducing you to git, github, pull requests (PR), and the expected code standards and approval process of your PRs.
 
 #Where to start
 - If this is your first time using git, or you need a refresher course, please go to [Introduction to Git](https://github.com/PantherHackers/StartHere#introduction-to-git)
@@ -33,7 +33,7 @@ The expected workflow for a contribution is as follows(each step has a link to t
 6. [Update your 'master' branch so that it matches the newest version of the original repo.]((https://gist.github.com/CristinaSolana/1885435))
 
 ##Expectations and Approvals
-Although PantherHackers is a predominantly student organization, we still expect contributions from our members to be high quality. The quality expectations of each individual repo is up to the discretion of the team managing that repo. Please do your best to work with us to keep our code the best quality it can be. Repo Teams maintain the right to deny PRs at our discretion, but feel free to reach out if the explanation given for why your PR was rejected was not clear. 
+Although PantherHackers is a predominantly student organization, we still expect contributions from our members to be high quality. The quality expectations of each individual repo is up to the discretion of the team managing that repo. Please do your best to work with us to keep our code the best quality it can be. Repo Teams maintain the right to deny PRs at our discretion, but feel free to reach out if the explanation given for why your PR was rejected was not clear.
 
 ##If you understand the above please do the following:
  1. Fork this Repo
@@ -42,7 +42,8 @@ Although PantherHackers is a predominantly student organization, we still expect
  4. Create a Pull Request, in the **extended description** please put your slack name and an email we can best use to contact you
   * [Example of what this should look like](https://github.com/PantherHackers/StartHere/pull/2)
  5. Once your PR is approved, you are then free to contribute to any of the PantherHackers repo, **failure to do so will result in immediate rejection of your PR**
- 
+
 #Acknowledgment
 
 Mo Hijazi 1-28-2017
+Lee Klarch 2-4-2017
