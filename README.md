@@ -48,3 +48,4 @@ Although PantherHackers is a predominantly student organization, we still expect
 - Mo Hijazi 1-28-2017
 - SungJae Kim 2-4-2017
 - Lee Klarch 2-4-2017
+- Macdonny Saintil 02-04-2017
