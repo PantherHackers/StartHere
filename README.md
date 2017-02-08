@@ -51,3 +51,4 @@ Although PantherHackers is a predominantly student organization, we still expect
 - SungJae Kim 2-4-2017
 - Lee Klarch 2-4-2017
 - Macdonny Saintil 2-4-2017
+- Shubham Gupte 2-5-2017
