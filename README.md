@@ -52,3 +52,4 @@ Although PantherHackers is a predominantly student organization, we still expect
 - Lee Klarch 2-4-2017
 - Macdonny Saintil 2-4-2017
 - Shubham Gupte 2-5-2017
+- Nathaniel Brown 2-22-2017
