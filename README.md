@@ -54,3 +54,4 @@ Although PantherHackers is a predominantly student organization, we still expect
 - Shubham Gupte 2-5-2017
 - Nathaniel Brown 2-22-2017
 - Imanuel Sonubi 2-24-2017
+- Abele Amsalu 2-24-2017
