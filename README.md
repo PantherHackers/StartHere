@@ -55,4 +55,5 @@ Although PantherHackers is a predominantly student organization, we still expect
 - Nathaniel Brown 2-22-2017
 - Imanuel Sonubi 2-24-2017
 - Abele Amsalu 2-24-2017
-- Ahmed Reshit 2-25-2017
+- Brian Cabigon 2-25-2017
+- Ahmed Reshit 2-26-2017
