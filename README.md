@@ -59,3 +59,4 @@ Although PantherHackers is a predominantly student organization, we still expect
 - Ahmed Reshit 2-26-2017
 - Phillip Kinney 3-7-2017
 - McKenzie Rochester 3-13-2017
+- Wasfi Momen 3-22-2017
